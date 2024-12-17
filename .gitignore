@@ -1,0 +1,8 @@
+# Ignore environment variable files
+.env
+
+# Ignore any files that may contain sensitive keys
+*.json
+*.key
+*.pem
+*.txt
